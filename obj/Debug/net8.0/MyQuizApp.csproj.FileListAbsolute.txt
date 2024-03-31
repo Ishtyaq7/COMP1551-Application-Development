@@ -1,0 +1,14 @@
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/bin/Debug/net8.0/MyQuizApp
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/bin/Debug/net8.0/MyQuizApp.deps.json
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/bin/Debug/net8.0/MyQuizApp.runtimeconfig.json
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/bin/Debug/net8.0/MyQuizApp.dll
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/bin/Debug/net8.0/MyQuizApp.pdb
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.AssemblyInfoInputs.cache
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.AssemblyInfo.cs
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.csproj.CoreCompileInputs.cache
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.dll
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/refint/MyQuizApp.dll
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.pdb
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/MyQuizApp.genruntimeconfig.cache
+/Users/tanvirakhtershakib/Desktop/Ish_cw/MyQuizApp/obj/Debug/net8.0/ref/MyQuizApp.dll
